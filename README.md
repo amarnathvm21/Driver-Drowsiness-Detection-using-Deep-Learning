@@ -148,7 +148,11 @@ Combine Eyes
 Save Dataset
 ```
 
-Example:
+
+Add your facial images to extraction folder and run eye_extraction.ipynb to extract Eye regions.
+Extracted images is stored in eye_dataset Folder
+
+---
 
 # ⚙️ Installation
 
